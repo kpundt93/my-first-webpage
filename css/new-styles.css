@@ -13,7 +13,7 @@ p {
   font-family: sans-serif;
 }
 
-ul {
+ul, ol {
   line-height: 30px;
   font-family: sans-serif;
 }
